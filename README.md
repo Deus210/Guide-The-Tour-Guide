@@ -1,4 +1,4 @@
 # Guide-The-Tour-Guide
-added sex
+added sex << endl;
 Bug fixes
 Text redacting
